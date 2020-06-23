@@ -23,3 +23,6 @@ cd build
 cmake ..
 make
 ```
+
+## Authors
+- Eric Dang
